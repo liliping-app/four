@@ -1,4 +1,4 @@
-﻿112222
-问啊
-1awe
-你好吗？
+﻿网址：https://www.cnblogs.com/thinkingandworkinghard/p/6395339.html
+
+如何解决failed to push some refs to git 
+ git push -f
