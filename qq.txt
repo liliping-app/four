@@ -2,3 +2,8 @@
 
 如何解决failed to push some refs to git 
  git push -f
+
+删除仓库中的文件夹
+ git rm -r --cached vueMusic #vueMusic是文件夹名
+ git commit -m 'delete vueMusic'
+ git push -u origin master
